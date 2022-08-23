@@ -291,6 +291,14 @@ h6 {
     line-height: 24px;
     margin-bottom: 30px;
   }
+  
+#hero p {
+  color: #fff;
+  margin-bottom: 50px;
+  font-size: 22px;
+  font-family: "Poppins", sans-serif;
+}
+
   #hero .hero-container {
   position: relative;
   min-width:300;
